@@ -1,0 +1,1 @@
+The 2017 provincial CGE model provided in this database is only a benchmark version and can simulate scenarios such as carbon tax and carbon trading. If you need to obtain the latest version, please contact the author.
